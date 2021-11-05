@@ -2,6 +2,8 @@
 Washington State University
 
 This repo contains snippets of some presentations that my students found helpful.
+The slides alone may not make a lot of sense because I also explained stuff in-person,
+so only use these as a reference.
 
 No peer review was done in the creation of these presentations, therefore I am not responsible
 for the accuracy of the contents of these presentations.
