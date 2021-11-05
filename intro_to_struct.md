@@ -21,10 +21,10 @@ This becomes extremely messy, very quickly, as you have to deal with 4 extra var
 Instead, since the 4 variables are related to each other, we can put it into a Data Structure,
 ```c
 typedef struct student {
-  int id;
-  char* name;
-	int age;
-	double gpa;
+    int id;
+    char* name;
+    int age;
+    double gpa;
 } Student;
 ```
 
